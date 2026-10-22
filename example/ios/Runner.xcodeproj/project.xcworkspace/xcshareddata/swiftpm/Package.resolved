@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "paypal-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/paypal/paypal-ios.git",
+      "state" : {
+        "revision" : "de98414f5cf74dc3db2239a4828b4760ef391d20",
+        "version" : "3.1.1"
+      }
+    },
+    {
+      "identity" : "paypal-risk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/paypal/paypal-risk-ios",
+      "state" : {
+        "revision" : "97d70968d508992f99ac9c46dd1da4c0cf0a2d97",
+        "version" : "5.6.0"
+      }
+    }
+  ],
+  "version" : 2
+}
